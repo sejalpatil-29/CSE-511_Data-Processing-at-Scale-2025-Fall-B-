@@ -1,0 +1,13 @@
+/.idea/
+/.bsp/
+/.metals/
+/.vscode/
+/spark-warehouse/
+/target/
+/project/target/
+/project/project/
+/out/
+/out0/
+/out1/
+*.jar
+src/resources/yellow_trip_sample_100000.csv
