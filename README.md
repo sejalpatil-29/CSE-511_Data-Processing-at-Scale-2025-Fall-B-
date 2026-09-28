@@ -66,12 +66,3 @@ cd CSE-511_Data-Processing-at-Scale-2025-Fall-B-
 ```
 
 Then open the folder for the assignment you want to run and follow its instructions.
-
-## Author
-
-**Sejal Patil**
-GitHub: [@sejalpatil-29](https://github.com/sejalpatil-29)
-
-## Academic Integrity
-
-This repository is for personal reference. If you are currently taking this course, please follow your institution's academic integrity policy and do not copy this work.
